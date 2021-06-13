@@ -1,0 +1,81 @@
+* { 
+    box-sizing: board-box;}
+    .first-div {
+        background-color: rgb(57, 80, 16);
+        height: 150px;
+        margin-bottom: -20px;
+        margin-top: -20px;
+        margin-left: -20px;
+        margin-right: -20px;
+       
+    }
+     .second-div {
+         background-color: rgb(78, 16, 16);
+         height: 200px;
+         width: 260px;
+         box-sizing: border-box;
+         display: inline-block;
+         margin-right: -5px;
+         margin-left: -25px;
+         padding-top: 50px;
+         box-sizing: border-box;
+         
+          }
+          .third-div {
+            background-color: rgb(155, 155, 15);
+            height: 200px;
+            width: 260px;
+            margin-right: -5px;
+            padding-top: 50px;
+         box-sizing: border-box;
+           
+           
+            display: inline-block;
+             }
+             .fourth-div {
+                background-color:indigo;
+                height: 200px;
+                 width: 255px;
+                box-sizing: border-box;
+                display: inline-block;
+                margin-right: -5px;
+                padding-top: 50px;
+                box-sizing: border-box;
+                 }
+                 .fifth-div {
+                    background-color: #d641b1;
+                    height: 200px;
+                    width: 256px ;
+                    box-sizing: border-box;
+                    display: inline-block;
+                    margin-right: -5px;
+                    padding-top: 50px;
+                    box-sizing: border-box;
+                     }
+                     .sixth-div {
+                        background-color: rgb(37, 79, 87);
+                        height: 200px;
+                        width: 260px ;
+                        box-sizing: border-box;
+                        display: inline-block;
+                        margin-right: -30px;
+                        padding-top: 50px;
+                        box-sizing: border-box;
+                         }
+                                    
+
+body {
+    background-color: limegreen;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+    font-style: monospace;
+}
+    
+    
+}
+
+ p {
+    font-size: 200px;
+   
+}
